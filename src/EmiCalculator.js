@@ -72,7 +72,6 @@ function EmiCalculator() {
   return (
     <div className=" container card text-center p-5 w-100 " id='main-card' >
       <div style={{display:"flex"}}>
-
       <div className="card p-5 " id='card1'> 
       <h1 id='h1'>EMI Calculator</h1>
       <div className="form-group">
